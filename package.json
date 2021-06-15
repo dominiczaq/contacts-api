@@ -1,0 +1,11 @@
+{
+  "private": true,
+  "name": "gatsby",
+  "version": "1.0.0",
+  "dependencies": {},
+  "devDependencies": {
+    "@vercel/node": "1.9.0"
+  },
+  "scripts": {
+  }
+}
